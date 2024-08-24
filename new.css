@@ -1,0 +1,120 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: gray;
+}
+
+.contanier{
+  background-color: #E4F5F9;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.img{
+  height: 100px;
+  border-radius:400px;
+  padding: 20px;
+}
+.naime{
+  position: relative;
+  left:110px;
+  top:-125px;
+  padding: ;
+}
+.web{position: relative;
+  top:-20px;
+}
+
+h1,h2,h3,h4,h5 {
+  color:#11999e;
+}
+.email{
+  position: relative;
+  left:500px;
+  top:-255px;
+  padding: 40px;
+  
+  
+}
+a{color:#11999e;
+  text-decoration: none;
+  font-weight: bold;
+}
+.dag{
+  height: 5px;
+  width:800px;
+  background-color: black;
+  position: relative;
+  top:-270px;
+  margin: 0 auto;
+}
+.dag2{
+  height: 2px;
+  width:800px;
+  background-color: gray;
+  position: relative;
+  top:-280px;
+  margin: 0 auto;
+}
+
+.parsonal{
+  position: relative;
+  top:-260px;
+  padding: 10px;
+}
+.nationlity{
+  position: relative;
+  left:300px;
+  top:-310px;
+}
+.work{
+  position: relative;
+  padding: 10px;
+   top:-290px;
+}
+
+.diploma{
+  position: relative;
+  left:300px;
+  top:-340px;
+}
+.diploma2{
+  position: relative;
+  left:px;
+  top:-20px;
+}
+.website{
+  position: relative;
+  padding: 10px;
+  left:290px;
+  top:-390px;
+}
+
+.footer{
+  height: 70px;
+  width:800px;
+  margin: 0 auto;
+  background-color: black;
+  color:white;
+  
+  
+}
+
+
+span{
+  position: relative;
+  left:300px;
+  bottom:-12px;
+  
+}
+.span{
+  position: relative;
+ left:300px;
+  bottom:px;
+  color:white;
+  
+}
+
+.color{
+  color:white;
+}
